@@ -1,4 +1,4 @@
-# QuickShutDownTimer
+# QuickShutdownTimer
 this is a quick shutdown timer for windows
 
 # Usage
